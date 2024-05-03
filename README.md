@@ -10,9 +10,11 @@ Use the minimal demo as an example for setup.
 
 ## That's confusing. My site is dangerously usable. Help me change it now!
 
-Add this script tag literally anywhere then.
+This is exactly what jsdelivr was made for.
 
-https://raw.githubusercontent.com/HughParry/BlockAdBlock/main/demo/src/assets/bundle.js
+Add this script tag literally anywhere.
+
+<script src="https://cdn.jsdelivr.net/gh/HughParry/BlockAdBlock/demo/src/assets/bundle.js"></script>
 
 ## I have some ideas about how I can make the internet a worse place. How can I help?
 
